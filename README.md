@@ -29,7 +29,7 @@
 6. 设置函数（cal_tax），根据既定的不变利率，计算税后所得。（税率并非准确数字，为自定义税率）
 
 ## 五、流程图
-![](https://github.com/Minomeis/Java-Experiment04/blob/master/img/liucheng.png)
+![](https://github.com/123456-lyp/123456-lyp-Java-lab04/blob/main/1638885291(1).png)
 ## 六、主要代码
 1. 实例化Lab类，在其中添加属于整个类的属性，价格补助。
 ```java
